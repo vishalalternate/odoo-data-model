@@ -22,7 +22,7 @@
     'currency': 'USD',
     # any module necessary for this one to work correctly
  
-    'images': ['static/description/looker.gif'],
+    'images': ['static/description/shorterd.mp4'],
     "license":"LGPL-3",
 
     # always loaded
