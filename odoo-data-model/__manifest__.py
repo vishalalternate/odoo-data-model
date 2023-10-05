@@ -8,8 +8,8 @@
     'description': """
     Odoo data model shows relations of a particular model with other models (Odoo Data Tables), click on the model node and voila! Nodes provide you with the nested relation of clicked models. """,
          'live_test_url': 'https://techneith.com/products/odoo-data-model/',
-    'maintainer': 'TN Canada',
-    'author': "TN Canada",
+    'maintainer': 'ER Diagram',
+    'author': "ER Diagram",
     'website': "https://techneith.com/products/odoo-data-model/",
     'support': "homerobotic21@gmail.com",
  
@@ -22,7 +22,7 @@
     'currency': 'USD',
     # any module necessary for this one to work correctly
  
-    'images': ['static/description/shorterd.gif'],
+    'images': ['static/description/dataModel.gif'],
     "license":"LGPL-3",
 
     # always loaded
