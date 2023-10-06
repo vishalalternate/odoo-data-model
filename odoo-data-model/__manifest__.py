@@ -3,10 +3,10 @@
     'name': "Odoo Data Model",
 
     'summary': """
-       	 Odoo data model shows relations of a particular model with other models (Odoo Data Tables), click on the model node and voila! Nodes provide you with the nested relation of clicked models.""",
+       	 Odoo data model shows table relationship diagram of a particular model with other models (Odoo Data Tables), click on the model and see Entity Relationship (ER) Diagram! beneficial to use with PowerBI""",
 
     'description': """
-    Odoo data model shows relations of a particular model with other models (Odoo Data Tables), click on the model node and voila! Nodes provide you with the nested relation of clicked models. """,
+    Odoo data model shows table relationship diagram of a particular model with other models (Odoo Data Tables), click on the model and see Entity Relationship (ER) Diagram! beneficial to use with PowerBI """,
          'live_test_url': 'https://techneith.com/products/odoo-data-model/',
     'maintainer': 'ER Diagram',
     'author': "ER Diagram",
