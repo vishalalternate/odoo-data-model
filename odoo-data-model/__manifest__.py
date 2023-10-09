@@ -3,13 +3,16 @@
     'name': "Odoo Data Model",
 
     'summary': """
-       	 Odoo data model shows table relationship diagram of a particular model with other models (Odoo Data Tables), click on the model and see Entity Relationship (ER) Diagram! beneficial to use with PowerBI""",
+       	 Odoo data model shows table relationship diagram of a particular model with other models 
+           (Odoo Data Tables), click on the model and see Entity Relationship Diagram (ER) ! beneficial
+            to use with Power BI or PowerBI""",
 
     'description': """
-    Odoo data model shows table relationship diagram of a particular model with other models (Odoo Data Tables), click on the model and see Entity Relationship (ER) Diagram! beneficial to use with PowerBI """,
+    Odoo data model shows table relationship diagram of a particular model with other models 
+    (Odoo Data Tables), click on the model and see Entity Relationship Diagram (ER) ! relation table relationship table Power BI or PowerBI """,
          'live_test_url': 'https://techneith.com/products/odoo-data-model/',
-    'maintainer': 'ER Diagram',
-    'author': "ER Diagram",
+    'maintainer': 'Entity Diagram',
+    'author': "Entity Diagram",
     'website': "https://techneith.com/products/odoo-data-model/",
     'support': "homerobotic21@gmail.com",
  
